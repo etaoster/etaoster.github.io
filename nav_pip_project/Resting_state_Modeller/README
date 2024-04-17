@@ -1,0 +1,6 @@
+This folder contains scripts for running Modeller to generate a resting state model of Nav1.7 and Nav1.4, with all four voltage-sensing domains (VSDs) are in the deactivated state. This includes:
+- template pdb structures
+- alignment files
+- python scripts to run Modeller AutoModel
+
+Note, the C-terminal domain is not included in this homology model.
